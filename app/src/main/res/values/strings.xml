@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloSharedPrefs</string>
+    <string name="shared_prefs_name">com.example.hellosharedprefs</string>
+</resources>
